@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+packages/
+AppPackages/
+BundleArtifacts/
+
+**/*.nuget.*
+**/project.lock.json
+*.orig
+*.user
+*.cache
+*.Cache
